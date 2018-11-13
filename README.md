@@ -1,2 +1,9 @@
 # DC-Lab
-## Execute using gcc filename.c - fopenmp
+## To compile use
+```
+gcc filename.c - fopenmp
+```
+## Execute
+```
+./a.out
+```
